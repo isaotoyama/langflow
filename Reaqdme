@@ -1,0 +1,2 @@
+python -m pip install langflow -u
+python -m langflow run
